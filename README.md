@@ -1,5 +1,8 @@
 # Intro To Golang
 
+![image](https://github.com/user-attachments/assets/4236bec3-541b-440b-9f50-4db62fa0ea90)
+</br>
+
 ## Description
 
 Never tried Go yet? Or you did but just need a refresher? In this campaign, we will take you on a guided journey into the world of Go. 
